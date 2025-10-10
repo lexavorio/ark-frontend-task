@@ -19,7 +19,7 @@ Airesto.ru — это приложение для ресторанов, кото
   * Включение и отключение зон для отображения
   * Заголовки таблицы (столы и время) должны фиксироваться: столы — у левого края, время — в верхней части при прокрутке
 
-   https://github.com/user-attachments/assets/03922cc2-12eb-4d56-b698-8540e8bcd019
+    https://github.com/user-attachments/assets/d1aabf7d-6bc8-4218-b31d-6c32170fdfe7
 
   * Отображается текущее время ресторана, а не локальное
   * Все события в таблице из раздела **"[Возможные события](https://www.figma.com/design/5X7iQ7bXOeDNL9oiQh0Bc0/Ark-Studio.-%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?node-id=1-829&t=2ZQjYV5w6O2yN4pF-0)"** в Figma должны отображаться
@@ -96,7 +96,7 @@ Airesto.ru — это приложение для ресторанов, кото
 * Скрытие контента ([пример в Figma](https://www.figma.com/design/5X7iQ7bXOeDNL9oiQh0Bc0/Ark-Studio.-%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?node-id=1-340&t=2ZQjYV5w6O2yN4pF-0))
 * Добавить возможность выделения **времени** и **столов** для последующего добавления бронирования
 
-https://github.com/user-attachments/assets/a457ef53-4166-4085-9b54-2cf6c46d35bd
+https://github.com/user-attachments/assets/b419497b-839d-4d68-94ae-8fbbae69cd05
 
   * При нажатии на кнопку **"Создать"** выводить в консоль
     * ID выбранных столов
@@ -131,6 +131,5 @@ https://github.com/user-attachments/assets/a457ef53-4166-4085-9b54-2cf6c46d35bd
 
 # Работа реализованного функционала на реальных данных
 
-https://github.com/user-attachments/assets/212c4386-26da-4121-8945-dca74cb24cee
-
+https://github.com/user-attachments/assets/8a5f6184-2917-4bb3-900f-c45757ab3ea9
 
